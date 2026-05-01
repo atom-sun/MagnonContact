@@ -4,6 +4,8 @@ by Ning Sun, Lei Feng, and Pengfei Zhang
 
 Source code and original data for the paper: https://arxiv.org/abs/2510.23135.
 
+Published on: https://journals.aps.org/pra/abstract/10.1103/4nf5-q435. 
+
 ## Contact
 
 - email: ningsun.atom@gmail.com
